@@ -6,6 +6,8 @@
 
 ![Screenshot 2024-05-03 153807](https://github.com/Jay2364/Wanderlust/assets/108801927/87ccec9d-96ad-49e5-9ec6-8d6e86a6c7d6)
 
+![Screenshot 2024-05-03 154431](https://github.com/Jay2364/Wanderlust/assets/108801927/a6490e26-a321-48d5-bab0-893a1eaa466d)
+
 ![Screenshot 2024-05-03 153856](https://github.com/Jay2364/Wanderlust/assets/108801927/afdf3982-44e8-48d9-91d6-97f18c5b4b35)
 
 ![Screenshot 2024-05-03 153908](https://github.com/Jay2364/Wanderlust/assets/108801927/7097b0f8-2b75-4795-92e4-f79135acf0fd)
