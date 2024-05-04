@@ -2,8 +2,6 @@
 
 ![Screenshot 2024-05-03 154104](https://github.com/Jay2364/Wanderlust/assets/108801927/8717e002-652b-4d81-b3a4-f03dc44c3511)
 
-![Screenshot 2024-05-03 153815](https://github.com/Jay2364/Wanderlust/assets/108801927/f88c6c17-3b86-4821-8cb8-33b59bf56444)
-
 ![Screenshot 2024-05-03 153807](https://github.com/Jay2364/Wanderlust/assets/108801927/87ccec9d-96ad-49e5-9ec6-8d6e86a6c7d6)
 
 ![Screenshot 2024-05-03 154431](https://github.com/Jay2364/Wanderlust/assets/108801927/a6490e26-a321-48d5-bab0-893a1eaa466d)
@@ -18,5 +16,4 @@
 
 ![Screenshot 2024-05-03 154000](https://github.com/Jay2364/Wanderlust/assets/108801927/a7602615-6276-4f10-9795-dd424bcef2b4)
 
-![Screenshot 2024-05-03 151921](https://github.com/Jay2364/Wanderlust/assets/108801927/686f1d8b-ae5f-43dd-936c-28443e664af9)
-
+![Screenshot 2024-05-04 182117](https://github.com/Jay2364/Wanderlust/assets/108801927/a8d49177-69dd-4822-a653-95da67e90a59)
