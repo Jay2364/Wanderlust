@@ -25,13 +25,18 @@ const listingRouter = require('./routes/listing.js')
 const reviewRouter = require('./routes/review.js')
 const userRouter = require('./routes/user.js')
 
+// views
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
+
+// delete/put
 app.use(express.urlencoded({extended: true}));
 app.use(methodOverride('_method'));
 
+// js/css
 app.use(express.static(path.join(__dirname, 'public')));
 
+// boilerplate
 app.engine('ejs',ejsMate);
 
 // mongoDB connection
